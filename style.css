@@ -1,0 +1,37 @@
+body{
+font-size:20px;
+font-family:josefin sans;
+}
+#left{
+float: left;
+	width: 800px;
+	margin: 0;
+	padding: 1em;
+	text-align:center;
+	color:hsl(0,36%,70%)
+}
+#left h2{
+color:black;
+}
+#left img{
+padding-top:10px;
+padding-bottom:100px;
+}
+#right{
+float: right;
+	width: 800px;
+	margin: 0;
+	padding: 1em;
+}
+
+ .attribution {
+ font-size: 11px;
+ text-align: center; 
+ }
+ .attribution a { 
+ text-decoration:none;
+ color: hsl(228, 45%, 44%); 
+ }
+footer {
+clear: both;
+}
